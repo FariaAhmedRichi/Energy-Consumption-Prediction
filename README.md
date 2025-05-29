@@ -1,6 +1,6 @@
 # Household Energy Consumption Prediction
 
-A machine learning based project for predicting household energy consumption working through raw data, cleaned and prepared it, and then applied classification models to generate useful insights.
+This project focuses on predicting household energy consumption using machine learning. I worked through raw data, cleaned and prepared it, and then applied classification models to generate useful insights.
 
 ## 📌 What This Project Is About
 I used a real-world dataset to explore energy usage patterns and built models to predict consumption levels. The goal was to not just build models, but understand what drives energy usage and how to make sense of that data.
