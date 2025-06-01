@@ -4,7 +4,7 @@ This project focuses on predicting household energy consumption using machine le
 
 ## 📌 What This Project Is About
 I used a real-world dataset to explore energy usage patterns and built models to predict consumption levels. The goal was to not just build models, but understand what drives energy usage and how to make sense of that data.
-⚙️ Preprocessing was done in R to clean and prepare the dataset, which was then used in a Python-based machine learning workflow.
+Preprocessing was done in R to clean and prepare the dataset, which was then used in a Python-based machine learning workflow.
 
 ## 🛠️ What I Did
 - Cleaned and preprocessed messy data
